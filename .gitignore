@@ -1,0 +1,18 @@
+# Banco de dados local SQLite
+*.db
+leads.db
+
+# Ambientes virtuais do Python
+.venv/
+venv/
+ENV/
+env/
+
+# Cache do Python e Streamlit
+__pycache__/
+.streamlit/
+*.pyc
+
+# Arquivos temporários e planilhas de teste
+*.xlsx
+*.csv
